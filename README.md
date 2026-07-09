@@ -19,8 +19,8 @@ A relational database management system to showcase the  organization and manage
 ## Project Structure
 
 ```
-docs               → Project report and documentation
-diagrams           → ER diagram
+docs                → Project report and documentation
+diagrams            → ER diagram
 screenshots/        → SQL query outputs
 schema.sql          → Database schema
 insert_data.sql     → Sample data
